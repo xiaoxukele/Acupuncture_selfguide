@@ -1,0 +1,31 @@
+import {test,expect} from '@playwright/test';
+import {pathToFileURL} from 'node:url';
+import path from 'node:path';
+
+test('extracted package works from a Chinese/spaced path without network or server',async({browser})=>{
+ test.skip(!process.env.ATLAS_OFFLINE_ENTRY,'Set ATLAS_OFFLINE_ENTRY to test an extracted release');
+ const context=await browser.newContext({offline:true,viewport:{width:1440,height:1050}});
+ const page=await context.newPage();const errors=[];const requests=[];
+ page.on('pageerror',e=>errors.push(e.message));
+ page.on('requestfailed',r=>errors.push(r.failure()?.errorText));
+ page.on('request',r=>{if(/^https?:/.test(r.url()))requests.push(r.url())});
+ const entry=process.env.ATLAS_OFFLINE_ENTRY;
+ await page.goto(pathToFileURL(path.resolve(entry)).href);
+ await expect(page.locator('#condition-detail h2')).toHaveText('腰背痛');
+ await page.locator('#search').fill('LI4');await expect(page.locator('.condition-row')).toHaveCount(3);
+ await page.locator('#search').fill('不存在');await expect(page.locator('#condition-list')).toContainText('没有找到');
+ await page.locator('[data-clear]').click();await expect(page.locator('.condition-row')).toHaveCount(14);
+ await page.locator('[data-region="颈肩"]').click();await expect(page.locator('.condition-row')).toHaveCount(2);
+ await page.locator('[data-region="全部"]').click();await page.locator('[data-condition="insomnia"]').click();
+ await page.locator('#ear-tab').click();await page.locator('[data-point="ear-subcortex"]').first().click();
+ await expect(page.locator('.selected-point')).toContainText('皮质下');await expect(page.locator('#hidden-points')).toBeVisible();
+ await page.locator('#body-tab').click();await page.locator('[data-view="back"]').click();await expect(page.locator('#figure-title')).toHaveText('人体背面');
+ await page.locator('#zoom-in').click();await expect(page.locator('#zoom-reset')).toHaveText('120%');
+ await page.locator('#save-condition').click();await page.reload();await page.locator('[data-page="favorites"]').click();await expect(page.locator('.catalog-row')).toHaveCount(1);
+ await page.locator('[data-open-condition="insomnia"]').click();await page.locator('#sources-button').click();await expect(page.locator('dialog')).toContainText('资料与来源');await page.keyboard.press('Escape');
+ await page.locator('#theme-button').click();await expect(page.locator('html')).toHaveAttribute('data-theme','dark');
+ await page.screenshot({path:'tests/offline-extracted.png',fullPage:true,animations:'disabled'});
+ await expect.poll(()=>page.evaluate(()=>document.fonts.check('16px Phosphor'))).toBe(true);
+ expect(errors).toEqual([]);expect(requests).toEqual([]);
+ await context.close();
+});

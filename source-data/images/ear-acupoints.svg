@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1060" viewBox="0 0 1200 1060" role="img" aria-label="耳部常用穴位图 · 耳郭外侧索引；示意草图，非临床取穴图">
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#243c39}.title{font-size:36px;font-weight:700}.sub{font-size:16px;fill:#58716b}.label{font-size:18px}.small{font-size:14px;fill:#58716b}.contour{fill:#ede8de;stroke:#7f948b;stroke-width:2.5}.line{fill:none;stroke:#b4c1b9;stroke-width:2}.leader{fill:none;stroke:#91a79f;stroke-width:1.3}.dot{fill:#bb5d3e;stroke:#fff;stroke-width:2}.view{font-size:21px;font-weight:700}</style>
+<rect width="1200" height="1060" fill="#fbfaf6"/><text x="44" y="61" class="title">耳部常用穴位图 · 耳郭外侧索引</text><text x="44" y="96" class="sub">原创示意 / 25个常用耳穴 / 22个外侧标点 + 3个隐藏面文字索引 / 非完整标准耳穴图</text>
+<path class="contour" d="M318 535 C267 441 282 290 356 222 C429 143 582 165 638 251 C699 342 678 505 636 624 C611 706 561 751 526 803 C504 850 445 888 389 861 C346 841 332 793 340 751 C350 704 324 676 307 644 C286 610 290 560 318 535 Z"/>
+<path class="line" d="M328 493 C298 364 345 230 446 218 C574 196 643 276 637 379 C637 481 616 587 570 653 M570 653 C548 688 515 719 492 746 M595 293 C568 347 550 383 548 463 C562 516 540 579 509 638 M548 463 C526 406 497 365 453 266 M548 463 C477 439 407 430 347 434 M351 507 C411 503 440 493 475 493 M475 493 C464 528 465 550 478 562 M347 557 C385 544 437 551 471 571 C493 591 492 640 471 662 M339 685 C389 714 437 709 471 687 C508 674 522 706 500 740 M350 754 Q420 731 475 773"/>
+<path class="contour" d="M310 558 C343 558 357 580 348 612 C349 643 337 663 316 653 C302 640 291 590 310 558 Z"/>
+<text x="365" y="932" class="small">朝向说明：耳屏位于画面左侧；仅绘一耳外侧示意。</text>
+<g id="ear-shenmen" data-point-id="ear-shenmen"><title>神门：示意标点，非实际取穴位置</title><path class="leader" d="M431 350 L205 344"/><circle cx="431" cy="350" r="5.5" class="dot"/><text x="44" y="350" class="label">神门</text></g>
+<g id="ear-sympathetic" data-point-id="ear-sympathetic"><title>交感：示意标点，非实际取穴位置</title><path class="leader" d="M347 434 L205 428"/><circle cx="347" cy="434" r="5.5" class="dot"/><text x="44" y="434" class="label">交感</text></g>
+<g id="ear-colon" data-point-id="ear-colon"><title>大肠：示意标点，非实际取穴位置</title><path class="leader" d="M368 462 L205 465"/><circle cx="368" cy="462" r="5.5" class="dot"/><text x="44" y="471" class="label">大肠</text></g>
+<g id="ear-rectum" data-point-id="ear-rectum"><title>直肠：示意标点，非实际取穴位置</title><path class="leader" d="M321 481 L205 502"/><circle cx="321" cy="481" r="5.5" class="dot"/><text x="44" y="508" class="label">直肠</text></g>
+<g id="ear-mouth" data-point-id="ear-mouth"><title>口：示意标点，非实际取穴位置</title><path class="leader" d="M347 557 L205 551"/><circle cx="347" cy="557" r="5.5" class="dot"/><text x="44" y="557" class="label">口</text></g>
+<g id="ear-tragus-apex" data-point-id="ear-tragus-apex"><title>屏尖：示意标点，非实际取穴位置</title><path class="leader" d="M315 578 L205 588"/><circle cx="315" cy="578" r="5.5" class="dot"/><text x="44" y="594" class="label">屏尖</text></g>
+<g id="ear-heart" data-point-id="ear-heart"><title>心：示意标点，非实际取穴位置</title><path class="leader" d="M405 586 L205 625"/><circle cx="405" cy="586" r="5.5" class="dot"/><text x="44" y="631" class="label">心</text></g>
+<g id="ear-outer-nose" data-point-id="ear-outer-nose"><title>外鼻：示意标点，非实际取穴位置</title><path class="leader" d="M313 617 L205 662"/><circle cx="313" cy="617" r="5.5" class="dot"/><text x="44" y="668" class="label">外鼻</text></g>
+<g id="ear-lung" data-point-id="ear-lung"><title>肺：示意标点，非实际取穴位置</title><path class="leader" d="M433 620 L205 699"/><circle cx="433" cy="620" r="5.5" class="dot"/><text x="44" y="705" class="label">肺</text></g>
+<g id="ear-adrenal" data-point-id="ear-adrenal"><title>肾上腺：示意标点，非实际取穴位置</title><path class="leader" d="M325 645 L205 736"/><circle cx="325" cy="645" r="5.5" class="dot"/><text x="44" y="742" class="label">肾上腺</text></g>
+<g id="ear-jaw" data-point-id="ear-jaw"><title>颌：示意标点，非实际取穴位置</title><path class="leader" d="M433 779 L205 773"/><circle cx="433" cy="779" r="5.5" class="dot"/><text x="44" y="779" class="label">颌</text></g>
+<g id="ear-ear-apex" data-point-id="ear-ear-apex"><title>耳尖：示意标点，非实际取穴位置</title><path class="leader" d="M467 189 L725 199"/><circle cx="467" cy="189" r="5.5" class="dot"/><text x="748" y="205" class="label">耳尖</text></g>
+<g id="ear-heel" data-point-id="ear-heel"><title>跟：示意标点，非实际取穴位置</title><path class="leader" d="M453 266 L725 260"/><circle cx="453" cy="266" r="5.5" class="dot"/><text x="748" y="266" class="label">跟</text></g>
+<g id="ear-knee" data-point-id="ear-knee"><title>膝：示意标点，非实际取穴位置</title><path class="leader" d="M518 306 L725 300"/><circle cx="518" cy="306" r="5.5" class="dot"/><text x="748" y="306" class="label">膝</text></g>
+<g id="ear-sciatic" data-point-id="ear-sciatic"><title>坐骨神经：示意标点，非实际取穴位置</title><path class="leader" d="M446 427 L725 421"/><circle cx="446" cy="427" r="5.5" class="dot"/><text x="748" y="427" class="label">坐骨神经</text></g>
+<g id="ear-lumbosacral" data-point-id="ear-lumbosacral"><title>腰骶椎：示意标点，非实际取穴位置</title><path class="leader" d="M548 463 L725 458"/><circle cx="548" cy="463" r="5.5" class="dot"/><text x="748" y="464" class="label">腰骶椎</text></g>
+<g id="ear-abdomen" data-point-id="ear-abdomen"><title>腹：示意标点，非实际取穴位置</title><path class="leader" d="M512 466 L725 495"/><circle cx="512" cy="466" r="5.5" class="dot"/><text x="748" y="501" class="label">腹</text></g>
+<g id="ear-elbow" data-point-id="ear-elbow"><title>肘：示意标点，非实际取穴位置</title><path class="leader" d="M607 487 L725 532"/><circle cx="607" cy="487" r="5.5" class="dot"/><text x="748" y="538" class="label">肘</text></g>
+<g id="ear-stomach" data-point-id="ear-stomach"><title>胃：示意标点，非实际取穴位置</title><path class="leader" d="M475 493 L725 569"/><circle cx="475" cy="493" r="5.5" class="dot"/><text x="748" y="575" class="label">胃</text></g>
+<g id="ear-shoulder" data-point-id="ear-shoulder"><title>肩：示意标点，非实际取穴位置</title><path class="leader" d="M591 555 L725 606"/><circle cx="591" cy="555" r="5.5" class="dot"/><text x="748" y="612" class="label">肩</text></g>
+<g id="ear-cervical" data-point-id="ear-cervical"><title>颈椎：示意标点，非实际取穴位置</title><path class="leader" d="M509 638 L725 643"/><circle cx="509" cy="638" r="5.5" class="dot"/><text x="748" y="649" class="label">颈椎</text></g>
+<g id="ear-occiput" data-point-id="ear-occiput"><title>枕：示意标点，非实际取穴位置</title><path class="leader" d="M471 687 L725 681"/><circle cx="471" cy="687" r="5.5" class="dot"/><text x="748" y="687" class="label">枕</text></g>
+<rect x="750" y="772" width="405" height="139" rx="8" fill="#eee8dc"/>
+<text x="772" y="803" class="label">隐藏面：本图不强行投影标点</text>
+<text x="772" y="836" class="small">皮质下：对耳屏内侧；内鼻：耳屏内侧</text>
+<text x="772" y="870" class="small">内分泌：屏间切迹内侧</text>
+<path d="M44 969 H1156" class="line"/>
+<text x="44" y="1004" class="sub">参照 GB/T 13734-2008；当前未逐穴核对标准全文，名称、区域和坐标均待专业复核。</text>
+<text x="44" y="1034" class="small">耳穴神门与体穴神门不同；内脏名称为耳穴命名，不是器官诊断工具。当前图不可指导针刺、贴压取穴。</text>
+</svg>

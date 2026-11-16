@@ -1,0 +1,17 @@
+{
+  "name": "jingxue-atlas",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.mjs",
+    "build": "node build.mjs",
+    "test": "playwright test",
+    "pack:offline": "python scripts/package_offline.py"
+  },
+  "devDependencies": {
+    "@phosphor-icons/web": "^2.1.2",
+    "@playwright/test": "^1.65.1",
+    "lighthouse": "^13.6.0"
+  }
+}

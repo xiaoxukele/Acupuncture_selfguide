@@ -1,0 +1,22 @@
+{
+  "verified_on": "2026-11-16",
+  "browser": "Chrome / Playwright",
+  "functional_suites_passed": 6,
+  "condition_entries_checked": 14,
+  "responsive_widths": [
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "themes_checked": [
+    "light",
+    "dark"
+  ],
+  "lighthouse_mobile": {
+    "performance": 0.99,
+    "accessibility": 1,
+    "best_practices": 1
+  },
+  "clinical_review_completed": false
+}

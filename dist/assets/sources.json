@@ -1,0 +1,137 @@
+[
+  {
+    "id": "body-standard",
+    "title": "经穴名称与定位 GB/T 12346-2021",
+    "publisher": "国家标准全文公开系统",
+    "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=397548AE7248D3D87DD15E0AB8107185",
+    "scope": "定位标准；本轮核验元数据，未逐穴核对全文",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "extra-standard",
+    "title": "经外奇穴名称与定位国家标准解读",
+    "publisher": "国家市场监督管理总局",
+    "url": "https://www.samr.gov.cn/bzjss/bzjd/art/2022/art_18cda25e449d4613a57c587d4f7b14ea.html",
+    "scope": "奇穴标准说明",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "ear-standard",
+    "title": "耳穴名称与定位 GB/T 13734-2008",
+    "publisher": "国家标准全文公开系统",
+    "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=D6A125ED4011A9A625F8A3ACE425EE09",
+    "scope": "定位标准；本轮核验元数据，未逐穴核对全文",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "who",
+    "title": "WHO Standard Acupuncture Point Locations in the Western Pacific Region",
+    "publisher": "WHO",
+    "url": "https://iris.who.int/bitstream/handle/10665/353407/9789290613831-eng.pdf",
+    "scope": "国际名称与定位参考；版权保护，不转用原图",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "fujian",
+    "title": "关于进一步做好中医药适宜技术推广工作的通知及附件",
+    "publisher": "福建省卫生健康委员会",
+    "url": "https://wjw.fujian.gov.cn/xxgk/zfxxgkzl/zfxxgkml/wszh/zyzy/202310/P020231019570867392435.pdf",
+    "scope": "2023年文件；临床技术目录，非疗效系统综述；页码为PDF页码",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "pain",
+    "title": "常见疼痛的穴位自我调治方法",
+    "publisher": "淄博市卫生健康委员会",
+    "url": "https://ws.zibo.gov.cn/art/2021/8/18/art_1338_2150486.html",
+    "scope": "按揉科普，仅摘取有关用穴；未采纳心胸痛自救等表述",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "headache",
+    "title": "【医学小常识】关于头痛您知道多少？",
+    "publisher": "北京中医药大学东方医院",
+    "url": "https://www.dongfangyy.com.cn/Html/News/Articles/9016.html",
+    "scope": "列出百会、太阳、风池等；须先分辨头痛类型",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "ear-clinic",
+    "title": "耳穴疗法简介及常见病治疗",
+    "publisher": "北京市卫生健康委员会",
+    "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202204/t20220407_2655896.html",
+    "scope": "耳穴传统临床选穴科普，不代表高确定性疗效证据",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "sleep",
+    "title": "中医药科普标准知识库：失眠",
+    "publisher": "中华中医药学会",
+    "url": "https://www.cacm.org.cn/spskl/item/?item_id=10005",
+    "scope": "针灸常用穴位科普",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "rhinitis",
+    "title": "中医药科普标准知识库：变应性鼻炎",
+    "publisher": "中华中医药学会",
+    "url": "https://www.cacm.org.cn/spskl/item/?item_id=10001",
+    "scope": "第85、86问分别为体针和耳穴",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "constipation",
+    "title": "“帕”者便秘，中医施“护”",
+    "publisher": "北京市卫生健康委员会",
+    "url": "https://wjw.beijing.gov.cn/bmfw_20143/jkzs/jksh/202107/t20210706_2430483.html",
+    "scope": "原人群为帕金森病患者；不可直接外推至全部便秘",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "tooth",
+    "title": "牙痛",
+    "publisher": "中国针灸学会",
+    "url": "https://www.caam.cn/article/784",
+    "scope": "2007年历史资料，仅记录传统取穴，不采纳有效率",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "knee",
+    "title": "膝关节痛的推拿治疗",
+    "publisher": "中华中医药学会疼痛学分会",
+    "url": "https://chinapa.org.cn/article/703",
+    "scope": "推拿用穴科普",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "heel",
+    "title": "足跟痛不一定是长骨刺",
+    "publisher": "中国中医科学院中药研究所",
+    "url": "https://www.icmm.ac.cn/zt/kpyd/content_238.html",
+    "scope": "足跟痛推拿/针灸科普",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  },
+  {
+    "id": "efficacy",
+    "title": "Acupuncture: Effectiveness and Safety",
+    "publisher": "NCCIH / NIH",
+    "url": "https://www.nccih.nih.gov/health/acupuncture-effectiveness-and-safety",
+    "scope": "针灸疗效与安全概述；不能证明某个穴位组合有效",
+    "accessed": "2026-11-16",
+    "image_reuse_permission": "未确认，未复制原图"
+  }
+]

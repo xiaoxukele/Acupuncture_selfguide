@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "body-gv20",
+    "name": "百会",
+    "system": "body",
+    "code": "GV20",
+    "region": "头顶",
+    "location_summary": "头顶（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "midline",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 350,
+      "y": 196,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-ex-hn5",
+    "name": "太阳",
+    "system": "body",
+    "code": "EX-HN5",
+    "region": "颞侧",
+    "location_summary": "颞侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "extra-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 394,
+      "y": 250,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-gb20",
+    "name": "风池",
+    "system": "body",
+    "code": "GB20",
+    "region": "后颈",
+    "location_summary": "后颈（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 314,
+      "y": 292,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-gb21",
+    "name": "肩井",
+    "system": "body",
+    "code": "GB21",
+    "region": "肩上",
+    "location_summary": "肩上（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 276,
+      "y": 332,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-li15",
+    "name": "肩髃",
+    "system": "body",
+    "code": "LI15",
+    "region": "肩前外侧",
+    "location_summary": "肩前外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 270,
+      "y": 352,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-li11",
+    "name": "曲池",
+    "system": "body",
+    "code": "LI11",
+    "region": "肘外侧",
+    "location_summary": "肘外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 224,
+      "y": 475,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-te5",
+    "name": "外关",
+    "system": "body",
+    "code": "TE5",
+    "region": "前臂背侧",
+    "location_summary": "前臂背侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 205,
+      "y": 536,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-li4",
+    "name": "合谷",
+    "system": "body",
+    "code": "LI4",
+    "region": "手背",
+    "location_summary": "手背（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 186,
+      "y": 604,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-pc6",
+    "name": "内关",
+    "system": "body",
+    "code": "PC6",
+    "region": "前臂掌侧",
+    "location_summary": "前臂掌侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 203,
+      "y": 550,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-ht7",
+    "name": "神门",
+    "system": "body",
+    "code": "HT7",
+    "region": "腕掌侧尺侧",
+    "location_summary": "腕掌侧尺侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 217,
+      "y": 578,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-cv12",
+    "name": "中脘",
+    "system": "body",
+    "code": "CV12",
+    "region": "上腹正中",
+    "location_summary": "上腹正中（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "midline",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 350,
+      "y": 438,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-st25",
+    "name": "天枢",
+    "system": "body",
+    "code": "ST25",
+    "region": "脐旁",
+    "location_summary": "脐旁（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 316,
+      "y": 480,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-cv4",
+    "name": "关元",
+    "system": "body",
+    "code": "CV4",
+    "region": "下腹正中",
+    "location_summary": "下腹正中（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "midline",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 350,
+      "y": 530,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-st34",
+    "name": "梁丘",
+    "system": "body",
+    "code": "ST34",
+    "region": "大腿前外侧",
+    "location_summary": "大腿前外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 290,
+      "y": 701,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-sp10",
+    "name": "血海",
+    "system": "body",
+    "code": "SP10",
+    "region": "大腿前内侧",
+    "location_summary": "大腿前内侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 329,
+      "y": 686,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-st35",
+    "name": "犊鼻",
+    "system": "body",
+    "code": "ST35",
+    "region": "膝前外侧",
+    "location_summary": "膝前外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 287,
+      "y": 744,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-sp9",
+    "name": "阴陵泉",
+    "system": "body",
+    "code": "SP9",
+    "region": "小腿内侧近膝",
+    "location_summary": "小腿内侧近膝（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 332,
+      "y": 774,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-gb34",
+    "name": "阳陵泉",
+    "system": "body",
+    "code": "GB34",
+    "region": "小腿外侧近膝",
+    "location_summary": "小腿外侧近膝（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 277,
+      "y": 782,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-st36",
+    "name": "足三里",
+    "system": "body",
+    "code": "ST36",
+    "region": "小腿前外侧",
+    "location_summary": "小腿前外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 293,
+      "y": 804,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-st37",
+    "name": "上巨虚",
+    "system": "body",
+    "code": "ST37",
+    "region": "小腿前外侧",
+    "location_summary": "小腿前外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 293,
+      "y": 854,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-sp6",
+    "name": "三阴交",
+    "system": "body",
+    "code": "SP6",
+    "region": "小腿内侧",
+    "location_summary": "小腿内侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 329,
+      "y": 911,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-bl23",
+    "name": "肾俞",
+    "system": "body",
+    "code": "BL23",
+    "region": "腰背",
+    "location_summary": "腰背（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 317,
+      "y": 466,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-bl25",
+    "name": "大肠俞",
+    "system": "body",
+    "code": "BL25",
+    "region": "下腰背",
+    "location_summary": "下腰背（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 317,
+      "y": 505,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-gb30",
+    "name": "环跳",
+    "system": "body",
+    "code": "GB30",
+    "region": "臀外侧",
+    "location_summary": "臀外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 281,
+      "y": 563,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-bl40",
+    "name": "委中",
+    "system": "body",
+    "code": "BL40",
+    "region": "膝后",
+    "location_summary": "膝后（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 302,
+      "y": 744,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-bl57",
+    "name": "承山",
+    "system": "body",
+    "code": "BL57",
+    "region": "小腿后侧",
+    "location_summary": "小腿后侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 301,
+      "y": 842,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-ki3",
+    "name": "太溪",
+    "system": "body",
+    "code": "KI3",
+    "region": "踝内侧",
+    "location_summary": "踝内侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 325,
+      "y": 957,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-bl60",
+    "name": "昆仑",
+    "system": "body",
+    "code": "BL60",
+    "region": "踝外侧",
+    "location_summary": "踝外侧（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "back",
+      "x": 280,
+      "y": 956,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-li20",
+    "name": "迎香",
+    "system": "body",
+    "code": "LI20",
+    "region": "鼻旁",
+    "location_summary": "鼻旁（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 367,
+      "y": 271,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-gv29",
+    "name": "印堂",
+    "system": "body",
+    "code": "GV29",
+    "region": "眉间",
+    "location_summary": "眉间（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "midline",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 350,
+      "y": 245,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-st6",
+    "name": "颊车",
+    "system": "body",
+    "code": "ST6",
+    "region": "下颌附近",
+    "location_summary": "下颌附近（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 382,
+      "y": 288,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-st7",
+    "name": "下关",
+    "system": "body",
+    "code": "ST7",
+    "region": "耳前",
+    "location_summary": "耳前（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/body-acupoints.svg",
+      "view": "front",
+      "x": 394,
+      "y": 271,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "body-ashi",
+    "name": "阿是穴",
+    "system": "body",
+    "code": null,
+    "region": "因人、因病而异",
+    "location_summary": "因人、因病而异（仅部位索引，非标准定位原文）",
+    "standard_reference_ids": [
+      "body-standard"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "variable",
+    "diagram": null
+  },
+  {
+    "id": "ear-shenmen",
+    "name": "神门",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "三角窝",
+    "location_summary": "三角窝（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 431,
+      "y": 350,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-sympathetic",
+    "name": "交感",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳轮下脚末端附近",
+    "location_summary": "对耳轮下脚末端附近（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 347,
+      "y": 434,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-subcortex",
+    "name": "皮质下",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳屏内侧（隐藏面）",
+    "location_summary": "对耳屏内侧（隐藏面）（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": null
+  },
+  {
+    "id": "ear-occiput",
+    "name": "枕",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳屏",
+    "location_summary": "对耳屏（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 471,
+      "y": 687,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-ear-apex",
+    "name": "耳尖",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳轮上方",
+    "location_summary": "耳轮上方（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 467,
+      "y": 189,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-heart",
+    "name": "心",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳甲腔",
+    "location_summary": "耳甲腔（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 405,
+      "y": 586,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-stomach",
+    "name": "胃",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳轮脚消失处附近",
+    "location_summary": "耳轮脚消失处附近（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 475,
+      "y": 493,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-colon",
+    "name": "大肠",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳甲艇",
+    "location_summary": "耳甲艇（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 368,
+      "y": 462,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-rectum",
+    "name": "直肠",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳轮脚前方耳轮附近",
+    "location_summary": "耳轮脚前方耳轮附近（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 321,
+      "y": 481,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-lung",
+    "name": "肺",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳甲腔",
+    "location_summary": "耳甲腔（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 433,
+      "y": 620,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-cervical",
+    "name": "颈椎",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳轮体下部",
+    "location_summary": "对耳轮体下部（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 509,
+      "y": 638,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-shoulder",
+    "name": "肩",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳舟下段",
+    "location_summary": "耳舟下段（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 591,
+      "y": 555,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-elbow",
+    "name": "肘",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳舟中下段",
+    "location_summary": "耳舟中下段（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 607,
+      "y": 487,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-lumbosacral",
+    "name": "腰骶椎",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳轮体上部",
+    "location_summary": "对耳轮体上部（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 548,
+      "y": 463,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-sciatic",
+    "name": "坐骨神经",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳轮下脚",
+    "location_summary": "对耳轮下脚（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 446,
+      "y": 427,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-knee",
+    "name": "膝",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳轮上脚中段",
+    "location_summary": "对耳轮上脚中段（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 518,
+      "y": 306,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-heel",
+    "name": "跟",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳轮上脚前上部",
+    "location_summary": "对耳轮上脚前上部（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 453,
+      "y": 266,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-abdomen",
+    "name": "腹",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "对耳轮体前部上段",
+    "location_summary": "对耳轮体前部上段（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 512,
+      "y": 466,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-mouth",
+    "name": "口",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳轮脚下方附近",
+    "location_summary": "耳轮脚下方附近（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 347,
+      "y": 557,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-jaw",
+    "name": "颌",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳垂",
+    "location_summary": "耳垂（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 433,
+      "y": 779,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-tragus-apex",
+    "name": "屏尖",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳屏上端",
+    "location_summary": "耳屏上端（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 315,
+      "y": 578,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-inner-nose",
+    "name": "内鼻",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳屏内侧（隐藏面）",
+    "location_summary": "耳屏内侧（隐藏面）（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": null
+  },
+  {
+    "id": "ear-outer-nose",
+    "name": "外鼻",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳屏外侧",
+    "location_summary": "耳屏外侧（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 313,
+      "y": 617,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-adrenal",
+    "name": "肾上腺",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "耳屏下部",
+    "location_summary": "耳屏下部（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": {
+      "asset": "images/ear-acupoints.svg",
+      "view": "ear-outer-schematic",
+      "x": 325,
+      "y": 645,
+      "coordinate_type": "schematic_not_clinical"
+    }
+  },
+  {
+    "id": "ear-endocrine",
+    "name": "内分泌",
+    "system": "ear",
+    "code": null,
+    "code_status": "标准编码待逐项核验，内部ID不是国标编码",
+    "region": "屏间切迹内侧（隐藏面）",
+    "location_summary": "屏间切迹内侧（隐藏面）（仅部位索引）",
+    "standard_reference_ids": [
+      "ear-standard"
+    ],
+    "location_reference_ids": [
+      "fujian"
+    ],
+    "standard_text_verified": false,
+    "review_status": "pending_clinician_review",
+    "laterality": "bilateral",
+    "diagram": null
+  }
+]

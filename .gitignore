@@ -1,0 +1,6 @@
+node_modules/
+test-results/
+tests/*.png
+tests/lighthouse*.json
+.sites-local/
+*.tar.gz
